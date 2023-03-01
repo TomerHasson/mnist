@@ -1,2 +1,2 @@
-mxnet==1.5.0
+mxnet==1.9.1
 facets_overview
